@@ -1,0 +1,692 @@
+<!DOCTYPE html><html lang="ru" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# fb: http://ogp.me/ns/fb#"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="manifest" href="/manifest.json"><link rel="alternate" type="application/rss+xml" href="/feed/"><link rel="alternate" type="application/atom+xml" href="/feed/atom/"><link rel="dns-prefetch" href="https://static-cdn.tinkoffjournal.ru/"><link rel="dns-prefetch" href="//dp.tinkoff.ru"><link rel="dns-prefetch" href="//www.googletagmanager.com"><link rel="dns-prefetch" href="//www.google-analytics.com"><link rel="dns-prefetch" href="//ssl.google-analytics.com"><link rel="dns-prefetch" href="//mc.yandex.ru"><link rel="dns-prefetch" href="//assets.adobedtm.com"><link rel="preload" href="https://static-cdn.tinkoffjournal.ru/fonts/graphik-regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static-cdn.tinkoffjournal.ru/fonts/graphik-medium.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static-cdn.tinkoffjournal.ru/fonts/graphik-semibold.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static-cdn.tinkoffjournal.ru/fonts/charter-regular.woff2" as="font" type="font/woff2" crossorigin><link rel="apple-touch-icon" sizes="57x57" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://static-cdn.tinkoffjournal.ru/favicons/apple-touch-icon-180x180.png"><link rel="yandex-tableau-widget" href="/yandex-browser-manifest.json"><link rel="icon" type="image/png" sizes="32x32" href="https://static-cdn.tinkoffjournal.ru/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="https://static-cdn.tinkoffjournal.ru/favicons/favicon-16x16.png"><link rel="shortcut icon" href="https://static-cdn.tinkoffjournal.ru/favicons/favicon.ico"><link rel="canonical" href="https://journal.tinkoff.ru/selected/around-the-world/"><title>Путеводители Т—Ж</title><meta property="og:locale" content="ru_RU"><meta property="og:url" content="https://journal.tinkoff.ru/selected/around-the-world/"><meta property="og:title" content="Путеводители Т—Ж"><meta property="og:description" content="Куда поехать в отпуск и как там всё организовать"><meta property="og:type" content="article"><meta property="og:image" content="http://img-cdn.tinkoffjournal.ru/travel_social.mmmswmjopptd.png"><meta property="og:image:secure_url" content="https://img-cdn.tinkoffjournal.ru/travel_social.mmmswmjopptd.png"><meta property="og:image:type" content="image/png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="627"><meta property="og:site_name" content="Т—Ж"><meta property="og:updated_time" content="2019-09-13T10:19:23.452320+03:00"><meta property="fb:app_id" content="163965867389833"><meta property="fb:pages" content="204025850007464"><meta property="vk:app_id" content="6101008"><meta property="vk:page_id" content="132711327"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Путеводители Т—Ж"><meta name="twitter:description" content="Куда поехать в отпуск и как там всё организовать"><meta name="twitter:image" content="https://img-cdn.tinkoffjournal.ru/travel_social.mmmswmjopptd.png"><meta name="twitter:site" content="@tinkoffjournal"><meta name="twitter:creator" content="@tinkoffjournal"><meta property="article:publisher" content="https://facebook.com/tinkoffjournal"><meta property="article:published_time" content="2018-05-14T22:11:12.550352+03:00"><meta property="article:modified_time" content="2019-09-13T10:19:23.452320+03:00"><meta name="google-site-verification" content="15jutXMBgumhVNS_eFY7fUAskR9WuDnE3M9jnpTcpV8"><meta name="yandex-verification" content="fe72b143664c45d2"><meta name="format-detection" content="telephone=no"><script src="https://static-cdn.tinkoffjournal.ru/js/modernizr.904e7b0d5597b90b.js"></script><style>body {
+        background-color: #cd3623
+        }</style><link rel="stylesheet" href="https://static-cdn.tinkoffjournal.ru/css/common.5779d88ef0aabf8c.css" media="all"><link rel="stylesheet" href="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/main.css"><link rel="stylesheet" href="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/common-ui-header-header.css"><link rel="stylesheet" href="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/common-ui-footer-footer.css"><link rel="stylesheet" href="https://static-cdn.tinkoffjournal.ru/css/main.6caec419ac770284.css" media="all"><script>window.CONSTANTS = (window.CONSTANTS || {"ENV_NAME":"production","ASSETS_CDN_URL":"https:\u002F\u002Fstatic2.tinkoffjournal.ru\u002Fmercury-front\u002F966f837121f262bdaea995d50d7b195a0a82afbc","SOCIAL_API_URL":"https:\u002F\u002Fsocial.journal.tinkoff.ru\u002Fapi","MERCURY_API_URL":"https:\u002F\u002Fjournal.tinkoff.ru\u002Fapi","RECCO_API_URL":"https:\u002F\u002Fdp.tinkoff.ru\u002Frecco\u002Fapi","URANIA_API_URL":"https:\u002F\u002Furania.tinkoffjournal.ru","SHOW_URANIA_LINK_IN_HEADER":"false"})</script><script src="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/app.client.js" defer></script><script src="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/vendor.js" defer></script><script src="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/common-ui-header-header.js" defer></script><script src="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/main.js" defer></script><script src="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/common-ui-footer-footer.js" defer></script><script>
+        (function() {
+          try {
+            var userId = parseInt(window.localStorage.getItem('userId'), 10);
+            if (!userId || userId <= 0) {
+              return;
+            }
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({userId: userId});
+          } catch (error) {}
+        })()
+      </script><script>
+          function handleDtmScriptLoaded() {
+            if (window._satellite && typeof window._satellite.pageBottom === 'function') {
+              window._satellite.pageBottom();
+            }
+          }
+        </script><script
+          defer
+          src="//assets.adobedtm.com/76e9ce042acd0b2e7c2690dc660a5306d9119bde/satelliteLib-3cd4b5e6df82e427df58487cf163f78dbe1fb0b3.js"
+          onload="handleDtmScriptLoaded()"></script><script>
+          function handleTinkoffTrackerLoaded() {
+             if (window.initTracking && typeof window.initTracking === 'function') {
+              window.tracking = initTracking();
+            }
+          }
+        </script><script
+          defer
+          src="https://static2.tinkoffjournal.ru/mercury-front/966f837121f262bdaea995d50d7b195a0a82afbc/static/scripts/tinkoff-web-tracker.js"
+          onload="handleTinkoffTrackerLoaded()"></script><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFWJK3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KFWJK3');</script><script>(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter45501540 = new Ya.Metrika({ id:45501540, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName('script')[0], s = d.createElement('script'), f = function () { n.parentNode.insertBefore(s, n); }; s.async = true; s.src = 'https://mc.yandex.ru/metrika/watch.js'; if (w.opera == '[object Opera]') { d.addEventListener('DOMContentLoaded', f, false); } else { f(); } })(document, window, 'yandex_metrika_callbacks');</script><noscript><div><img src="https://mc.yandex.ru/watch/45501540" style="position:absolute; left:-9999px;" alt=""></div></noscript></head><body class="layout-supernova serp body--dark" itemscope
+      itemtype="https://schema.org/WebPage"><script>
+	var
+		IS_APPLE_LIKE = !!navigator.platform.match(/(Mac|iPhone|iPod|iPad)/i),
+		IS_IOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform),
+		IS_WEBKIT = !!navigator.userAgent.match(/WebKit/i),
+		IS_IOS_SAFARI = IS_IOS && IS_WEBKIT && !navigator.userAgent.match(/CriOS/i);
+
+	document.documentElement.className += (IS_APPLE_LIKE ? ' is-apple-like' : ' not-apple-like');
+
+	if (IS_IOS) {
+		document.documentElement.className += ' is-ios';
+	}
+
+	if (IS_IOS_SAFARI) {
+		document.documentElement.className += ' is-ios-safari';
+	}
+
+	if (document.cookie.indexOf('tj.grotesquefont=1') != -1) {
+		document.documentElement.className += ' grotesque-font-loaded';
+	}
+
+	if (document.cookie.indexOf('tj.seriffont=1') != -1) {
+		document.documentElement.className += ' serif-font-loaded';
+	}
+
+	if (!('serviceWorker' in navigator)) {
+		document.documentElement.className += ' no-sw';
+	}
+</script><div data-component-name='header' data-component-data='{"isMainPage":false,"textColor":"white","bgColor":"#cd3623"}'><header class="_1XxY3" style="color:white"><div class="_14QyY"><div class="_2cYpE"><a class="g2tvv" href="/" tabindex="-1"><svg class="xjE89" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 14" fill="white"><path d="M90.5 0L85 4.9V0h-6.3v4.9L73.3 0h-8.8l8.6 6.7-9.3 7.3h8.8l6.1-5.5V14H85V8.5l6.1 5.5h8.8l-9.3-7.3L99.3 0h-8.8zM0 0v5.5h7.4V14h6.4V5.5h7.4V0H0zm25.2 9h38.6V4H25.2v5z"></path></svg><span class="_1BMlo">Т—Ж</span></a></div><div class="_3khoP"><div class="_2XGF7 _2wat0"><form class="_3A46B" action="/search/" method="GET"><div class="_3A26-"><div class="e1SSz" aria-expanded="false"><button class="_1XiCo" type="submit"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" fill="white" width="17" height="17"><path d="M14.1 11.9l-.5.5-.8-.8c.9-1.2 1.5-2.6 1.5-4.2 0-3.8-3.1-6.9-6.9-6.9C3.6.5.5 3.5.5 7.3s3.1 6.9 6.9 6.9c1.6 0 3-.5 4.2-1.5l.8.8-.5.5 3 3 2.1-2.1-2.9-3zm-6.7.6c-2.9 0-5.2-2.3-5.2-5.2 0-2.9 2.3-5.2 5.2-5.2 2.9 0 5.2 2.3 5.2 5.2 0 2.9-2.4 5.2-5.2 5.2z"></path></svg></button><span class="MTO4J">Поиск</span></div><input type="search" name="q" placeholder="Поиск" class="_2ryRK" value="" tabindex="1"/></div></form></div><div class="_2XGF7"><a href="/rich-page/" class="_2Yin6" target="_blank"><svg width="24" height="16" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M23.2 13.9l-2-1.9 2-1.5-6.9-2.3 2.3 6.9 1.4-1.9 2 1.9 1.2-1.2zM16 12.3H1.7V2.5l9.2 6.1 9.2-6.1v5.3l1.7.6V0H0v14h16.5l-.5-1.7zm2.7-10.6L11 6.8 3.2 1.7h15.5z"></path></svg><span class="DrMHb">Рассылка</span></a></div><div class="_2XGF7 _1XUGG"><a href="/ugc/" class="Zn8-c K_g0P" style="color:#cd3623;background-color:white">Написать</a></div></div></div><div class="_2EDjS _1Dc6p"><div class="_22BsI"><nav class="_2zYcK"><a href="/invest/" class="_2GC2F" data-tracking-nav-link-href="/invest/">Вложить</a><a href="/russia/" class="_2GC2F" data-tracking-nav-link-href="/russia/">Права</a><a href="/saving/" class="_2GC2F" data-tracking-nav-link-href="/saving/">Сбережения</a><a href="/chemodan/" class="_2GC2F" data-tracking-nav-link-href="/chemodan/">Путешествия</a><a href="/business/" class="_2GC2F" data-tracking-nav-link-href="/business/">Бизнесу</a><a href="/credits/" class="_2GC2F" data-tracking-nav-link-href="/credits/">Кредиты</a><a href="/interactive/" class="_2GC2F" data-tracking-nav-link-href="/interactive/">Калькуляторы</a><a href="/tests/" class="_2GC2F" data-tracking-nav-link-href="/tests/">Тесты</a><a href="https://instagram.com/t_gorod" class="_2GC2F" target="_blank" rel="nofollow noopener" data-tracking-nav-link-href="https://instagram.com/t_gorod">Город</a><a href="/ugc/" class="_2GC2F klE90" style="background-color:white;color:#cd3623">Написать</a></nav></div></div><div class="_3aEco" style="background-color:white"></div></header></div><script>if (location.hash) location.assign(location.hash.replace('#', '/'));</script><header class="serp-header"><h1 class="serp-header__title serp-header__title--normal" itemprop="name">
+                Путеводители Т—Ж
+            </h1></header><main class="serp-container" id="serp_container" data-colorhover="#000000" itemscope
+          itemtype="http://schema.org/ItemList"><meta itemprop="itemListOrder" content="Ascending"><article class="serp-item" id="longread1411" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="1"><div class="serp-item__meta js-stats" data-uid="caucasian-trip"><time
+		class="serp-item__date"
+		datetime="2019-09-13T10:17:30.703765+03:00"
+
+	>
+		13.09.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="6278">
+		6278
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="13">
+		13
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/caucasian-trip/" class="serp-item__link"
+                           itemprop="url">На автомобиле в Грузию и Армению</a></h2></article><article class="serp-item" id="longread1415" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="2"><div class="serp-item__meta js-stats" data-uid="costa-rica"><time
+		class="serp-item__date"
+		datetime="2019-09-10T15:01:18.876795+03:00"
+
+	>
+		10.09.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="4328">
+		4328
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="7">
+		7
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/costa-rica/" class="serp-item__link"
+                           itemprop="url">Двухнедельное путешествие в Коста-Рику</a></h2></article><article class="serp-item" id="longread1413" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="3"><div class="serp-item__meta js-stats" data-uid="brazil"><time
+		class="serp-item__date"
+		datetime="2019-09-06T12:27:10.456144+03:00"
+
+	>
+		06.09.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="6471">
+		6471
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="8">
+		8
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/brazil/" class="serp-item__link"
+                           itemprop="url">Поездка в Бразилию</a></h2></article><article class="serp-item" id="longread1376" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="4"><div class="serp-item__meta js-stats" data-uid="cuba"><time
+		class="serp-item__date"
+		datetime="2019-08-23T12:25:35.005276+03:00"
+
+	>
+		23.08.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="11834">
+		11 834
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="12">
+		12
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/cuba/" class="serp-item__link"
+                           itemprop="url">Самостоятельное путешествие по Кубе</a></h2></article><article class="serp-item" id="longread1363" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="5"><div class="serp-item__meta js-stats" data-uid="crete-travel"><time
+		class="serp-item__date"
+		datetime="2019-08-16T13:00:06.342711+03:00"
+
+	>
+		16.08.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="14307">
+		14 307
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="5">
+		5
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/crete-travel/" class="serp-item__link"
+                           itemprop="url">Отдых на Крите</a></h2></article><article class="serp-item" id="longread1333" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="6"><div class="serp-item__meta js-stats" data-uid="norway"><time
+		class="serp-item__date"
+		datetime="2019-08-02T10:18:54.331843+03:00"
+
+	>
+		02.08.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="43991">
+		43 991
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="185">
+		185
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/norway/" class="serp-item__link"
+                           itemprop="url">По Норвегии за 7000 рублей</a></h2></article><article class="serp-item" id="longread1247" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="7"><div class="serp-item__meta js-stats" data-uid="middle-asia-trip"><time
+		class="serp-item__date"
+		datetime="2019-07-25T10:09:37.377335+03:00"
+
+	>
+		25.07.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="12648">
+		12 648
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="17">
+		17
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/middle-asia-trip/" class="serp-item__link"
+                           itemprop="url">На машине по Казахстану, Киргизии и Узбекистану</a></h2></article><article class="serp-item" id="longread1300" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="8"><div class="serp-item__meta js-stats" data-uid="cheap-paris"><time
+		class="serp-item__date"
+		datetime="2019-07-19T10:21:37.726657+03:00"
+
+	>
+		19.07.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="16795">
+		16 795
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="10">
+		10
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/cheap-paris/" class="serp-item__link"
+                           itemprop="url">Экономная поездка в Париж</a></h2></article><article class="serp-item" id="longread1083" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="9"><div class="serp-item__meta js-stats" data-uid="catalonia"><time
+		class="serp-item__date"
+		datetime="2019-07-04T10:01:52.182182+03:00"
+
+	>
+		04.07.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="11836">
+		11 836
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="8">
+		8
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/catalonia/" class="serp-item__link"
+                           itemprop="url">Путешествие по Каталонии</a></h2></article><article class="serp-item" id="longread1107" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="10"><div class="serp-item__meta js-stats" data-uid="belgium"><time
+		class="serp-item__date"
+		datetime="2019-06-24T13:14:34.479640+03:00"
+
+	>
+		24.06.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="12959">
+		12 959
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="14">
+		14
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/belgium/" class="serp-item__link"
+                           itemprop="url">На поезде по Бельгии</a></h2></article><article class="serp-item" id="longread1186" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="11"><div class="serp-item__meta js-stats" data-uid="iceland"><time
+		class="serp-item__date"
+		datetime="2019-06-07T08:48:46.475025+03:00"
+
+	>
+		07.06.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="17284">
+		17 284
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="31">
+		31
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/iceland/" class="serp-item__link"
+                           itemprop="url">Автопутешествие по Исландии</a></h2></article><article class="serp-item" id="longread1101" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="12"><div class="serp-item__meta js-stats" data-uid="trip-to-dagestan2"><time
+		class="serp-item__date"
+		datetime="2019-05-31T11:23:12.615829+03:00"
+
+	>
+		31.05.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="22786">
+		22 786
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="24">
+		24
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/trip-to-dagestan/" class="serp-item__link"
+                           itemprop="url">Отпуск в Дагестане</a></h2></article><article class="serp-item" id="longread1073" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="13"><div class="serp-item__meta js-stats" data-uid="nyc-travel"><time
+		class="serp-item__date"
+		datetime="2019-04-26T09:56:51.443927+03:00"
+
+	>
+		26.04.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="24930">
+		24 930
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="32">
+		32
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/nyc-travel/" class="serp-item__link"
+                           itemprop="url">Экономное путешествие в Нью-Йорк</a></h2></article><article class="serp-item" id="longread1102" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="14"><div class="serp-item__meta js-stats" data-uid="vovan-davay"><time
+		class="serp-item__date"
+		datetime="2019-04-19T10:18:16.232998+03:00"
+
+	>
+		19.04.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="45727">
+		45 727
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="54">
+		54
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/vovan-davay/" class="serp-item__link"
+                           itemprop="url">Кругосветное путешествие</a></h2></article><article class="serp-item" id="longread1068" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="15"><div class="serp-item__meta js-stats" data-uid="tanzania"><time
+		class="serp-item__date"
+		datetime="2019-04-12T09:54:32.140172+03:00"
+
+	>
+		12.04.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="18419">
+		18 419
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="34">
+		34
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/tanzania/" class="serp-item__link"
+                           itemprop="url">Путешествие в Танзанию</a></h2></article><article class="serp-item" id="longread1072" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="16"><div class="serp-item__meta js-stats" data-uid="nepal"><time
+		class="serp-item__date"
+		datetime="2019-05-24T10:39:13.700736+03:00"
+
+	>
+		24.05.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="6977">
+		6977
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="4">
+		4
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/nepal/" class="serp-item__link"
+                           itemprop="url">Трекинг в Непале</a></h2></article><article class="serp-item" id="longread902" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="17"><div class="serp-item__meta js-stats" data-uid="auto-poland"><time
+		class="serp-item__date"
+		datetime="2019-02-01T10:04:18.429714+03:00"
+
+	>
+		01.02.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="22804">
+		22 804
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="20">
+		20
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/auto-poland/" class="serp-item__link"
+                           itemprop="url">Автопутешествие по Польше за 20 000 ₽</a></h2></article><article class="serp-item" id="longread816" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="18"><div class="serp-item__meta js-stats" data-uid="bomzhtrip"><time
+		class="serp-item__date"
+		datetime="2019-01-23T13:58:10.971704+03:00"
+
+	>
+		23.01.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="23480">
+		23 480
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="47">
+		47
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/bomzhtrip/" class="serp-item__link"
+                           itemprop="url">Бомж-трип во Францию</a></h2></article><article class="serp-item" id="longread878" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="19"><div class="serp-item__meta js-stats" data-uid="georgia-travel"><time
+		class="serp-item__date"
+		datetime="2019-01-17T13:09:38.703686+03:00"
+
+	>
+		17.01.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="194231">
+		194 231
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="99">
+		99
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/georgia-travel/" class="serp-item__link"
+                           itemprop="url">Отдых в Грузии</a></h2></article><article class="serp-item" id="longread842" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="20"><div class="serp-item__meta js-stats" data-uid="peru"><time
+		class="serp-item__date"
+		datetime="2019-01-09T10:24:11.571481+03:00"
+
+	>
+		09.01.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="23681">
+		23 681
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="19">
+		19
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/peru/" class="serp-item__link"
+                           itemprop="url">Поездка в Перу</a></h2></article><article class="serp-item" id="longread765" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="21"><div class="serp-item__meta js-stats" data-uid="morocco"><time
+		class="serp-item__date"
+		datetime="2018-11-21T10:03:34.592815+03:00"
+
+	>
+		21.11.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="16396">
+		16 396
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="9">
+		9
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/morocco/" class="serp-item__link"
+                           itemprop="url">Марокко за 9 дней</a></h2></article><article class="serp-item" id="longread789" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="22"><div class="serp-item__meta js-stats" data-uid="abkhazija_travel"><time
+		class="serp-item__date"
+		datetime="2018-11-27T13:08:11.103289+03:00"
+
+	>
+		27.11.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="178153">
+		178 153
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="212">
+		212
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/abkhazija_travel/" class="serp-item__link"
+                           itemprop="url">Отдых в Абхазии</a></h2></article><article class="serp-item" id="longread251" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="23"><div class="serp-item__meta js-stats" data-uid="piligrim"><time
+		class="serp-item__date"
+		datetime="2018-08-10T10:25:05.794636+03:00"
+
+	>
+		10.08.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="74110">
+		74 110
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="80">
+		80
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/piligrim/" class="serp-item__link"
+                           itemprop="url">Пешком по «Пути Сантьяго» в Испании</a></h2></article><article class="serp-item" id="longread766" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="24"><div class="serp-item__meta js-stats" data-uid="italy-trip"><time
+		class="serp-item__date"
+		datetime="2018-11-13T12:09:44.224891+03:00"
+
+	>
+		13.11.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="30579">
+		30 579
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="28">
+		28
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/italy-trip/" class="serp-item__link"
+                           itemprop="url">По Италии на поездах</a></h2></article><article class="serp-item" id="longread747" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="25"><div class="serp-item__meta js-stats" data-uid="scotland"><time
+		class="serp-item__date"
+		datetime="2018-10-31T12:23:07.912774+03:00"
+
+	>
+		31.10.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="50285">
+		50 285
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="34">
+		34
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/scotland/" class="serp-item__link"
+                           itemprop="url">По Шотландии на автомобиле</a></h2></article><article class="serp-item" id="longread607" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="26"><div class="serp-item__meta js-stats" data-uid="paanajarvi"><time
+		class="serp-item__date"
+		datetime="2018-07-16T09:57:20.007602+03:00"
+
+	>
+		16.07.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="47804">
+		47 804
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="4">
+		4
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/paanajarvi/" class="serp-item__link"
+                           itemprop="url">Дешево отдохнуть в Карелии</a></h2></article><article class="serp-item" id="longread313" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="27"><div class="serp-item__meta js-stats" data-uid="spaintram"><time
+		class="serp-item__date"
+		datetime="2017-10-12T11:09:43.472487+03:00"
+
+	>
+		12.10.17
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="29601">
+		29 601
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="2">
+		2
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/spain-tram/" class="serp-item__link"
+                           itemprop="url">По Испании на трамвае</a></h2></article><article class="serp-item" id="longread557" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="28"><div class="serp-item__meta js-stats" data-uid="greek-parom"><time
+		class="serp-item__date"
+		datetime="2018-06-09T10:08:48.510259+03:00"
+
+	>
+		09.06.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="30809">
+		30 809
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="7">
+		7
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/greek-parom/" class="serp-item__link"
+                           itemprop="url">По Греции на паромах</a></h2></article><article class="serp-item" id="longread575" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="29"><div class="serp-item__meta js-stats" data-uid="japan-travel"><time
+		class="serp-item__date"
+		datetime="2018-06-27T10:06:46.107788+03:00"
+
+	>
+		27.06.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="85998">
+		85 998
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="46">
+		46
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/japan-travel/" class="serp-item__link"
+                           itemprop="url">Две недели в Японии</a></h2></article><article class="serp-item" id="longread361" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="30"><div class="serp-item__meta js-stats" data-uid="finlandnewyear"><time
+		class="serp-item__date"
+		datetime="2017-12-01T11:51:19.094806+03:00"
+
+	>
+		01.12.17
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="50332">
+		50 332
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="1">
+		1
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/finland-new-year/" class="serp-item__link"
+                           itemprop="url">На Новый год в Финляндию</a></h2></article><article class="serp-item" id="longread1015" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="31"><div class="serp-item__meta js-stats" data-uid="abkhaziya-zimoy"><time
+		class="serp-item__date"
+		datetime="2019-03-26T10:12:23.034575+03:00"
+
+	>
+		26.03.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="14767">
+		14 767
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="14">
+		14
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/abkhaziya-zimoy/" class="serp-item__link"
+                           itemprop="url">Поездка в Абхазию зимой</a></h2></article><article class="serp-item" id="longread498" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="32"><div class="serp-item__meta js-stats" data-uid="travel_netherlands"><time
+		class="serp-item__date"
+		datetime="2018-04-25T07:59:41.737677+03:00"
+
+	>
+		25.04.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="43526">
+		43 526
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="8">
+		8
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/travel-netherlands/" class="serp-item__link"
+                           itemprop="url">Отпуск в Нидерландах</a></h2></article><article class="serp-item" id="longread830" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="33"><div class="serp-item__meta js-stats" data-uid="bali-travel"><time
+		class="serp-item__date"
+		datetime="2018-12-21T09:47:05.618817+03:00"
+
+	>
+		21.12.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="27154">
+		27 154
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="10">
+		10
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/bali-travel/" class="serp-item__link"
+                           itemprop="url">Отдохнуть на Бали</a></h2></article><article class="serp-item" id="longread439" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="34"><div class="serp-item__meta js-stats" data-uid="bali-fraud"><time
+		class="serp-item__date"
+		datetime="2018-02-20T12:14:01.974244+03:00"
+
+	>
+		20.02.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="30182">
+		30 182
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="0">
+		0
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/bali-fraud/" class="serp-item__link"
+                           itemprop="url">Как не потерять деньги на Бали</a></h2></article><article class="serp-item" id="longread223" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="35"><div class="serp-item__meta js-stats" data-uid="usatravel"><time
+		class="serp-item__date"
+		datetime="2017-04-07T11:09:05+03:00"
+
+	>
+		07.04.17
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="43619">
+		43 619
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="0">
+		0
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/usa-travel/" class="serp-item__link"
+                           itemprop="url">По США на автобусах</a></h2></article><article class="serp-item" id="longread195" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="36"><div class="serp-item__meta js-stats" data-uid="milan"><span class="serp-item__badge">
+
+		Как у них
+
+	</span><time
+		class="serp-item__date"
+		datetime="2017-02-03T16:20:21+03:00"
+
+	>
+		03.02.17
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="51717">
+		51 717
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="1">
+		1
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/milan/" class="serp-item__link"
+                           itemprop="url">На шопинг в Милан</a></h2></article><article class="serp-item" id="longread500" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="37"><div class="serp-item__meta js-stats" data-uid="krasnaya-polyana"><time
+		class="serp-item__date"
+		datetime="2018-04-04T10:53:34.353182+03:00"
+
+	>
+		04.04.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="60986">
+		60 986
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="7">
+		7
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/krasnaya-polyana/" class="serp-item__link"
+                           itemprop="url">Кататься в Красной поляне</a></h2></article><article class="serp-item" id="longread512" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="38"><div class="serp-item__meta js-stats" data-uid="egypt"><time
+		class="serp-item__date"
+		datetime="2018-04-12T20:08:02.130939+03:00"
+
+	>
+		12.04.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="48910">
+		48 910
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="9">
+		9
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/egypt/" class="serp-item__link"
+                           itemprop="url">Перезимовать в Египте</a></h2></article><article class="serp-item" id="longread533" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="39"><div class="serp-item__meta js-stats" data-uid="guide-israel"><time
+		class="serp-item__date"
+		datetime="2018-05-23T15:50:00.109236+03:00"
+
+	>
+		23.05.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="9173">
+		9173
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="4">
+		4
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/guide-israel/" class="serp-item__link"
+                           itemprop="url">С гидом по Израилю</a></h2></article><article class="serp-item" id="longread484" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="40"><div class="serp-item__meta js-stats" data-uid="rentphuket"><time
+		class="serp-item__date"
+		datetime="2018-05-31T11:06:00.551585+03:00"
+
+	>
+		31.05.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="13475">
+		13 475
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="10">
+		10
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/rentphuket/" class="serp-item__link"
+                           itemprop="url">Объехать Пхукет на машине</a></h2></article><article class="serp-item" id="longread518" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="41"><div class="serp-item__meta js-stats" data-uid="work_exchange"><time
+		class="serp-item__date"
+		datetime="2018-04-18T23:37:06.532649+03:00"
+
+	>
+		18.04.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="41993">
+		41 993
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="9">
+		9
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/work_exchange/" class="serp-item__link"
+                           itemprop="url">В Европу волонтером</a></h2></article><article class="serp-item" id="longread625" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="42"><div class="serp-item__meta js-stats" data-uid="australia_travel"><time
+		class="serp-item__date"
+		datetime="2018-07-27T10:13:24.019365+03:00"
+
+	>
+		27.07.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="91544">
+		91 544
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="60">
+		60
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/australia_travel/" class="serp-item__link"
+                           itemprop="url">Объехать Австралию</a></h2></article><article class="serp-item" id="longread343" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="43"><div class="serp-item__meta js-stats" data-uid="situation"><time
+		class="serp-item__date"
+		datetime="2017-11-01T12:44:21.695799+03:00"
+
+	>
+		01.11.17
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="36325">
+		36 325
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="13">
+		13
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/situation/" class="serp-item__link"
+                           itemprop="url">Без денег в Сингапуре</a></h2></article><article class="serp-item" id="longread476" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="44"><div class="serp-item__meta js-stats" data-uid="madeira"><time
+		class="serp-item__date"
+		datetime="2018-08-21T12:48:40.509955+03:00"
+
+	>
+		21.08.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="49533">
+		49 533
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="40">
+		40
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/madeira/" class="serp-item__link"
+                           itemprop="url">Отпуск на Мадейре</a></h2></article><article class="serp-item" id="longread663" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="45"><div class="serp-item__meta js-stats" data-uid="golden-ring"><time
+		class="serp-item__date"
+		datetime="2018-09-13T14:12:16.399667+03:00"
+
+	>
+		13.09.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="22507">
+		22 507
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="11">
+		11
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/golden-ring/" class="serp-item__link"
+                           itemprop="url">Проехать по Золотому кольцу</a></h2></article><article class="serp-item" id="longread719" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="46"><div class="serp-item__meta js-stats" data-uid="india"><time
+		class="serp-item__date"
+		datetime="2018-10-09T13:32:18.535080+03:00"
+
+	>
+		09.10.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="55233">
+		55 233
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="60">
+		60
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/india/" class="serp-item__link"
+                           itemprop="url">Перезимовать в Индии</a></h2></article><article class="serp-item" id="longread675" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="47"><div class="serp-item__meta js-stats" data-uid="baikal"><time
+		class="serp-item__date"
+		datetime="2018-09-21T10:11:26.677642+03:00"
+
+	>
+		21.09.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="94005">
+		94 005
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="48">
+		48
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/baikal/" class="serp-item__link"
+                           itemprop="url">Что посмотреть на Байкале</a></h2></article><article class="serp-item" id="longread656" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="48"><div class="serp-item__meta js-stats" data-uid="mexico"><time
+		class="serp-item__date"
+		datetime="2018-09-07T10:39:57.231508+03:00"
+
+	>
+		07.09.18
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="45760">
+		45 760
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="25">
+		25
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/mexico/" class="serp-item__link"
+                           itemprop="url">Жить полгода в Мексике</a></h2></article><article class="serp-item" id="longread840" itemprop="itemListElement" itemscope
+                         itemtype="http://schema.org/WebPage"><meta itemprop="position" content="49"><div class="serp-item__meta js-stats" data-uid="baikalpalatka"><time
+		class="serp-item__date"
+		datetime="2019-01-03T12:04:58.936231+03:00"
+
+	>
+		03.01.19
+	</time><span class="serp-item__stats serp-item__views" data-stats="views" data-value="26529">
+		26 529
+	</span><span class="serp-item__stats serp-item__comments" data-stats="comments" data-value="12">
+		12
+	</span></div><h2 class="serp-item__title" itemprop="name"><a href="/baikal-palatka/" class="serp-item__link"
+                           itemprop="url">Съездить на полуостров Святой Нос</a></h2></article></main><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://journal.tinkoff.ru/selected/around-the-world/"
+        },
+        "headline": "Путеводители Т—Ж",
+        "image": ["https://img-cdn.tinkoffjournal.ru/travel_social.mmmswmjopptd.png"],
+        "datePublished": "2018-05-14T22:11:12.550352+03:00",
+        "dateModified": "2019-09-13T10:19:23.452320+03:00",
+        "author": {
+            "@type": "Organization",
+            "name": "Т—Ж"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Т—Ж",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static-cdn.tinkoffjournal.ru/img/core-logo.350x60.png"
+            }
+        }
+    }
+</script><div data-component-name='footer' data-component-data='{"textColor":"white","bgColor":"#cd3623"}'><footer class="UtHxZ" style="color:white" role="contentinfo"><section class="_1cmQG"><div class="_3pAHK"><a class="g2tvv" href="/" tabindex="-1"><svg class="xjE89" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 14" fill="white"><path d="M90.5 0L85 4.9V0h-6.3v4.9L73.3 0h-8.8l8.6 6.7-9.3 7.3h8.8l6.1-5.5V14H85V8.5l6.1 5.5h8.8l-9.3-7.3L99.3 0h-8.8zM0 0v5.5h7.4V14h6.4V5.5h7.4V0H0zm25.2 9h38.6V4H25.2v5z"></path></svg><span class="_1BMlo">Т—Ж</span></a></div><div class="_3mvZ8"><nav class="_2uWqe"><a href="/invest/" class="_2acEP" data-tracking-nav-link-href="/invest/">Вложить</a><a href="/russia/" class="_2acEP" data-tracking-nav-link-href="/russia/">Права</a><a href="/saving/" class="_2acEP" data-tracking-nav-link-href="/saving/">Сбережения</a><a href="/chemodan/" class="_2acEP" data-tracking-nav-link-href="/chemodan/">Путешествия</a><a href="/business/" class="_2acEP" data-tracking-nav-link-href="/business/">Бизнесу</a><a href="/credits/" class="_2acEP" data-tracking-nav-link-href="/credits/">Кредиты</a><a href="/interactive/" class="_2acEP" data-tracking-nav-link-href="/interactive/">Калькуляторы</a><a href="/tests/" class="_2acEP" data-tracking-nav-link-href="/tests/">Тесты</a><a href="https://instagram.com/t_gorod" class="_2acEP" target="_blank" rel="nofollow noopener" data-tracking-nav-link-href="https://instagram.com/t_gorod">Город</a><a href="/ugc/" class="_2acEP">Написать</a></nav></div><div class="_1u11P"><a href="//t.me/tinkoffjournal" class="_2LV2q _2-H_F" target="_blank" rel="nofollow noopener"></a><a href="https://ok.ru/tinkoffjournal" class="_2LV2q _1XN64" target="_blank" rel="nofollow noopener"></a><a href="//www.instagram.com/tinkoffjournal/" class="_2LV2q tcZki" target="_blank" rel="nofollow noopener"></a><a href="//vk.com/tinkoffjournal" class="_2LV2q _2ZPVu" target="_blank" rel="nofollow noopener"></a><a href="//www.facebook.com/tinkoffjournal" class="_2LV2q _1GJY9" target="_blank" rel="nofollow noopener"></a></div></section><div class="_1Dhxk" style="background-color:white"></div><section><div class="_2pYIy"><div class="_1ApZr"><a href="//www.tinkoff.ru" class="yumA3" target="_blank" rel="noopener"><span class="_1zHBw"><strong>АО «Тинькофф Банк»</strong><br/>лицензия № 2673</span></a></div><div class="_1ApZr"><a href="mailto:journal@tinkoff.ru" class="_3J-qf">journal@tinkoff.ru</a><a href="/about/" class="_3J-qf">О проекте</a></div><div class="_1ApZr"><a href="/wiki/terms/" class="_3J-qf">Правила пользования сайтом</a></div></div></section></footer></div><script>
+        window.PRODUCTION = true;
+        window.TJ = {
+            api: '/api/',
+            uploads: 'https://img-cdn.tinkoffjournal.ru/',
+            build: 'https://static-cdn.tinkoffjournal.ru/',
+            social: {
+                baseUrl: 'https://social.journal.tinkoff.ru',
+                apiUrl: 'https://social.journal.tinkoff.ru/api/',
+            }
+        };
+    </script><script src="https://static-cdn.tinkoffjournal.ru/js/vendor.eb6e9ef60eaa0bca.js" defer></script><script src="https://static-cdn.tinkoffjournal.ru/js/external.3f18837bf95254c1.js" defer></script><script src="https://static-cdn.tinkoffjournal.ru/js/main.53da4e4361267b04.js" defer></script></body></html>
