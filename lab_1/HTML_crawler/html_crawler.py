@@ -1,14 +1,14 @@
-import requests
+
 import json
 import io
 from bs4 import BeautifulSoup
 
 
 
-def get_html_page(url): # должна быть валидным HTML
-    page_request = requests.get(url)
-    if page_request:
-        return page_request.text
+def get_html_page(client, url): # должна быть валидным HTML
+    response = client.get(url)
+    if response:
+        return response
     else:
         return "HTML is not valid"
 
