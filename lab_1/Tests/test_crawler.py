@@ -1,6 +1,8 @@
+import datetime
 import unittest
+import json
 from lab_1.Tests.test_client import testclient
-from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles
+from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publish_report
 from bs4 import BeautifulSoup
 
 
@@ -11,6 +13,8 @@ class TestCrawler(unittest.TestCase):
         test_page_file = open("../Tests/news_test_page.html", "r", encoding="UTF-8")
         test_page_content = test_page_file.read()
         test_page_file.close()
+        self.url = 'https://journal.tinkoff.ru/selected/around-the-world/'
+
         self.html = test_page_content
         self.control_array = [{'title': 'На автомобиле в Грузию и Армению'},
                               {'title': 'Двухнедельное путешествие в Коста-Рику'},
@@ -51,4 +55,7 @@ class TestCrawler(unittest.TestCase):
     def test_get_html_page(self):
         client = testclient()
         response = get_html_page(client, 'https://journal.tinkoff.ru/selected/around-the-world/')
-        self.assertEqual(response, 200)
+        self.assertEqual(response, self.html)
+
+    def test_file_structure(self):
+     
