@@ -1,1 +1,5 @@
-class Articles: #создать класс статьи, чтобы из json трансформировать в объект
+class Articles:
+    def __init__(self, url, creationDate, articles):
+        self.url = url
+        self.creationDate = creationDate
+        self.articles = articles

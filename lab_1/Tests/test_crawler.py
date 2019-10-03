@@ -14,7 +14,6 @@ class TestCrawler(unittest.TestCase):
         test_page_content = test_page_file.read()
         test_page_file.close()
         self.url = 'https://journal.tinkoff.ru/selected/around-the-world/'
-
         self.html = test_page_content
         self.control_array = [{'title': 'На автомобиле в Грузию и Армению'},
                               {'title': 'Двухнедельное путешествие в Коста-Рику'},
@@ -58,4 +57,17 @@ class TestCrawler(unittest.TestCase):
         self.assertEqual(response, self.html)
 
     def test_file_structure(self):
-     
+        creation_date = datetime.datetime.now().strftime("%Y-%m-%d")
+        summary = {"url": self.url,
+                   "creationDate": creation_date,
+                   "articles": self.control_array}
+
+        path = "../Tests/test_articles.json"
+        publish_report(path, summary)
+        with open('test_articles.json', 'r') as articles_data:
+            data = json.load(articles_data)
+            print(data["articles"])
+            self.assertTrue(data["url"])
+            self.assertTrue(data["creationDate"])
+            self.assertTrue(data["articles"])
+            self.assertNotEqual(len(data["articles"]), 0)
