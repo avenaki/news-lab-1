@@ -1,7 +1,6 @@
 import datetime
 import unittest
 import json
-import maya
 from lab_1.Tests.test_client import testclient
 from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publish_report
 from bs4 import BeautifulSoup
