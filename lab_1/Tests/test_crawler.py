@@ -64,10 +64,9 @@ class TestCrawler(unittest.TestCase):
 
         path = "../Tests/test_articles.json"
         publish_report(path, summary)
-        with open('test_articles.json', 'r') as articles_data:
+        with open('test_articles.json', 'r', encoding="UTF-8") as articles_data:
             data = json.load(articles_data)
             print(data["articles"])
             self.assertTrue(data["url"])
             self.assertTrue(data["creationDate"])
-            self.assertTrue(data["articles"])
             self.assertNotEqual(len(data["articles"]), 0)
