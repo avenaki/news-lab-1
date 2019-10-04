@@ -1,6 +1,7 @@
 import datetime
 import unittest
 import json
+import validators
 from lab_1.Tests.test_client import testclient
 from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publish_report
 from bs4 import BeautifulSoup
@@ -61,13 +62,13 @@ class TestCrawler(unittest.TestCase):
         summary = {"url": self.url,
                    "creationDate": creation_date,
                    "articles": self.control_array}
-
-        path = "../Tests/test_articles.json"
+        path = "lab_1/Tests/test_articles.json"
         publish_report(path, summary)
-        with open('test_articles.json', 'r') as articles_data:
+        with open(path, 'r', encoding="UTF-8") as articles_data:
             data = json.load(articles_data)
-            print(data["articles"])
-            self.assertTrue(data["url"])
-            self.assertTrue(data["creationDate"])
-            self.assertTrue(data["articles"])
-            self.assertNotEqual(len(data["articles"]), 0)
+        self.assertTrue(validators.url(data["url"]))
+        try:
+            creation_date_datetime = datetime.datetime.strptime(data["creationDate"], '%Y-%m-%d').date()
+        except ValueError:
+            print('Invalid date!')
+        self.assertNotEqual(len(data["articles"]), 0)
