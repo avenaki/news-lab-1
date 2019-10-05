@@ -7,11 +7,9 @@ from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publis
 from bs4 import BeautifulSoup
 
 
-
-
 class TestCrawler(unittest.TestCase):
     def setUp(self):
-        test_page_file = open("../Tests/news_test_page.html", "r", encoding="UTF-8")
+        test_page_file = open("lab_1/Tests/news_test_page.html", "r", encoding="UTF-8")
         test_page_content = test_page_file.read()
         test_page_file.close()
         self.url = 'https://journal.tinkoff.ru/selected/around-the-world/'
@@ -72,3 +70,6 @@ class TestCrawler(unittest.TestCase):
         except ValueError:
             print('Invalid date!')
         self.assertNotEqual(len(data["articles"]), 0)
+
+    if __name__ == '__main__':
+        unittest.main()
