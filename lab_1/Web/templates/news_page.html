@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tinkoff Journal</title>
+</head>
+<body>
+<h1>Путешествия</h1>
+<ul>
+{% for article in articles %}
+<li>{{ article['title'] }}</li>
+{% endfor %}
+</ul>
+<p><b>Источник:</b> {{ url }}</p>
+<p><b>Дата:</b> {{ date }}</p>
+</body>
+</html>
