@@ -1,11 +1,11 @@
 import json
 import io
 from bs4 import BeautifulSoup
+import requests
 
 
-
-def get_html_page(client, url): # должна быть валидным HTML
-    response = client.get(url)
+def get_html_page(url): # должна быть валидным HTML
+    response = requests.get(url)
     if response:
         return response
     else:
