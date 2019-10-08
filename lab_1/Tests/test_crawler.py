@@ -2,7 +2,7 @@ import datetime
 import unittest
 import json
 import validators
-from lab_1.Tests.test_client import testclient
+from lab_1.Tests.test_client import ClientTest
 from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publish_report
 from bs4 import BeautifulSoup
 
@@ -51,9 +51,8 @@ class TestCrawler(unittest.TestCase):
         self.assertListEqual(find_articles(self.html), self.control_array)
 
     def test_get_html_page(self):
-        client = testclient()
-        response = get_html_page(client, 'https://journal.tinkoff.ru/selected/around-the-world/')
-        self.assertEqual(response, self.html)
+        client = ClientTest()
+        self.assertEqual(get_html_page(client, 'https://journal.tinkoff.ru/selected/around-the-world/'), 200)
 
     def test_file_structure(self):
         creation_date = datetime.datetime.now().strftime("%Y-%m-%d")

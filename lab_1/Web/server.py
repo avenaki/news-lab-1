@@ -13,11 +13,12 @@ def run_crawler():
     articles = find_articles(html_page)
     creation_date = datetime.datetime.now().strftime("%Y-%m-%d")
     summary = {"url": url,
-           "creationDate": creation_date,
-           "articles": articles}
+               "creationDate": creation_date,
+               "articles": articles}
     path = "../HTML_crawler/articles.json"
     publish_report(path, summary)
     return render_template('news_page.html', url=url, date=creation_date, articles=articles)
+
 
 if __name__ == '__main__':
     app.run(host='localhost', port=8000)
