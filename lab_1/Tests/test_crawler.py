@@ -8,7 +8,7 @@ from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publis
 
 class TestCrawler(unittest.TestCase):
     def setUp(self):
-        test_page_file = open("./news_test_page.html", "r", encoding="UTF-8")
+        test_page_file = open("lab_1/Tests/news_test_page.html", "r", encoding="UTF-8")
         test_page_content = test_page_file.read()
         test_page_file.close()
         self.url = 'https://journal.tinkoff.ru/selected/around-the-world/'
@@ -57,7 +57,7 @@ class TestCrawler(unittest.TestCase):
         summary = {"url": self.url,
                    "creationDate": creation_date,
                    "articles": self.control_array}
-        path = "./test_articles.json"
+        path = "lab_1/Tests/test_articles.json"
         publish_report(path, summary)
         with open(path, 'r', encoding="UTF-8") as articles_data:
             data = json.load(articles_data)
