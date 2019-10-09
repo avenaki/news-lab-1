@@ -1,20 +1,25 @@
 <!DOCTYPE html>
-<style>
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap');
-</style>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>Tinkoff Journal</title>
+    <link rel="stylesheet" type="text/css"  href="../static/styles/style.css">
 </head>
 <body>
-<h1 style="font-family: 'Open Sans', sans-serif; text-align:center;">ПУТЕВОДИТЕЛИ Т—Ж</h1>
-<ul style="font-family: 'Open Sans', sans-serif; margin-left: 40px; font-size: 20px;">
-{% for article in articles %}
-<li>{{ article['title'] }}</li>
-{% endfor %}
-</ul>
-<p><b style="font-family: 'Open Sans', sans-serif; font-size: 16px;">Источник:</b> {{ url }}</p>
-<p><b style="font-family: 'Open Sans', sans-serif; font-size: 16px;">Дата:</b> {{ date }}</p>
+<h1>ПУТЕВОДИТЕЛИ Т—Ж</h1>
+<div>
+
+    {% for article in articles %}
+    <div class="titles">
+        {{ loop.index }}.
+        {{ article['title'] }}
+
+    </div>
+    {% endfor %}
+</div>
+<div class="footer">
+    <div> <b>Источник:</b> {{ url }} </div>
+    <div> <b>Дата:</b> {{ date }}</div>
+</div>
 </body>
 </html>

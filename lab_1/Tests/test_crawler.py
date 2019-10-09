@@ -5,7 +5,6 @@ import validators
 from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publish_report
 
 
-
 class TestCrawler(unittest.TestCase):
     def setUp(self):
         test_page_file = open("lab_1/Tests/news_test_page.html", "r", encoding="UTF-8")
@@ -63,7 +62,7 @@ class TestCrawler(unittest.TestCase):
             data = json.load(articles_data)
         self.assertTrue(validators.url(data["url"]))
         try:
-            creation_date_datetime = datetime.datetime.strptime(data["creationDate"], '%Y-%m-%d').date()
+            datetime.datetime.strptime(data["creationDate"], '%Y-%m-%d').date()
         except ValueError:
             print('Invalid date!')
         self.assertNotEqual(len(data["articles"]), 0)
