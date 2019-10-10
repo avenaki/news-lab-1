@@ -45,11 +45,12 @@ class TestCrawler(unittest.TestCase):
                               {'title': 'Жить полгода в Мексике'},
                               {'title': 'Съездить на полуостров Святой Нос'}]
 
+    def test_get_html_page(self):
+        self.assertEqual(get_html_page(self.url).status_code, 200)
+
     def test_find_articles(self):
         self.assertListEqual(find_articles(self.html), self.control_array)
 
-    def test_get_html_page(self):
-        self.assertEqual(get_html_page(self.url).status_code, 200)
 
     def test_file_structure(self):
         creation_date = datetime.datetime.now().strftime("%Y-%m-%d")
