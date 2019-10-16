@@ -27,6 +27,10 @@ def run_crawler():
 
     return render_template('news_page.html', url=url, date=creation_date, articles=articles)
 
+@app.route('/<cmd>')
+def refresh(cmd=None):
+    if cmd == "Refresh Page":
+        run_crawler()
 
 if __name__ == '__main__':
     app.run(host='localhost', port=8000)
