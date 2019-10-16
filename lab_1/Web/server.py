@@ -16,15 +16,6 @@ def run_crawler():
                "articles": articles}
     path = "../HTML_crawler/articles.json"
     publish_report(path, summary)
-
-    # with open(path, 'r', encoding="UTF-8") as articles_data:
-    # data = json.load(articles_data)
-    # json_articles = []
-    # json_url = data["url"]
-    # json_creation_date = data["creationDate"]
-    # for article in data["articles"]:
-    # json_articles.append(article)
-
     return render_template('news_page.html', url=url, date=creation_date, articles=articles)
 
 @app.route('/<cmd>')

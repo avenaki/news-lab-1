@@ -6,7 +6,7 @@ import requests
 
 def get_html_page(url):
     response = requests.get(url)
-    if response:
+    if response.status_code == 200:
         return response
     else:
         return "HTML is not valid"
