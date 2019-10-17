@@ -19,9 +19,17 @@ def run_crawler():
     return render_template('news_page.html', url=url, date=creation_date, articles=articles)
 
 @app.route('/<cmd>')
-def refresh(cmd=None):
-    if cmd == "Refresh Page":
+def refresh(cmd):
+    print(cmd)
+    if cmd == "Refresh":
         run_crawler()
+
+
+
+@app.route('/task1')
+def show_date_time():
+    current_time = datetime.datetime.now().strftime("%H-%M-%S")
+    return render_template('time_page.html', current_time=current_time)
 
 if __name__ == '__main__':
     app.run(host='localhost', port=8000)
