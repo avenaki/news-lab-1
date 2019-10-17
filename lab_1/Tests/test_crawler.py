@@ -2,7 +2,7 @@ import datetime
 import unittest
 import json
 import validators
-from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publish_report
+from html_crawler import get_html_page, find_articles, publish_report
 
 
 class TestCrawler(unittest.TestCase):

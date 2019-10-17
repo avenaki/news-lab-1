@@ -1,4 +1,4 @@
-from lab_1.HTML_crawler.html_crawler import get_html_page, find_articles, publish_report
+from html_crawler import get_html_page, find_articles, publish_report
 import datetime
 from flask import Flask, render_template
 
@@ -14,7 +14,7 @@ def run_crawler():
     summary = {"url": url,
                "creationDate": creation_date,
                "articles": articles}
-    path = "../HTML_crawler/articles.json"
+    path = "articles.json"
     publish_report(path, summary)
     return render_template('news_page.html', url=url, date=creation_date, articles=articles)
 
