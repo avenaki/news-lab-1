@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9de03165-d9d8-4e3f-82f6-b1ee0da5ba25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,12 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1571297329826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="try to fix heroku 2">
+      <created>1571298175050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571298175051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed directories" />
     <MESSAGE value="try to fix heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="try to fix heroku" />
+    <MESSAGE value="try to fix heroku 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to fix heroku 2" />
   </component>
 </project>

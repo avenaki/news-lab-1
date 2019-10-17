@@ -2,4 +2,5 @@ requests
 bs4
 datetime
 validators
+flask
 gunicorn
