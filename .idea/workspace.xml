@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9de03165-d9d8-4e3f-82f6-b1ee0da5ba25" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RI2auZbqGHgMUY2kaJucQc5fdz" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus-PC\PycharmProjects\news-lab-1\lab_1\Web" />
+      <recent name="C:\Users\Asus-PC\PycharmProjects\news-lab-1" />
+      <recent name="C:\Users\Asus-PC\PycharmProjects\news-lab-1\lab_1\Web\static\styles" />
+      <recent name="C:\Users\Asus-PC\PycharmProjects\news-lab-1\lab_1\Web\templates" />
+      <recent name="C:\Users\Asus-PC\PycharmProjects\news-lab-1\lab_1\Tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.server (1)">
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="news-lab-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_1/Web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Asus-PC\PycharmProjects\news-lab-1\lab_1\Web\server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crawler.TestCrawler" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="news-lab-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_1/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crawler.TestCrawler&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crawler.TestCrawler.test_file_structure" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="news-lab-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_1/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crawler.TestCrawler.test_file_structure&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_crawler.TestCrawler.test_get_html_page" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="news-lab-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_1/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crawler.TestCrawler.test_get_html_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python tests.Unittests for test_crawler.TestCrawler" />
+        <item itemvalue="Python tests.Unittests for test_crawler.TestCrawler.test_get_html_page" />
+        <item itemvalue="Python tests.Unittests for test_crawler.TestCrawler.test_file_structure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9de03165-d9d8-4e3f-82f6-b1ee0da5ba25" name="Default Changelist" comment="" />
+      <created>1569340355110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569340355110</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First task is done, everything works">
+      <created>1569492155586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569492155586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added html_test_page, test_crawler.py for unittests">
+      <created>1569499164538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569499164538</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added one test function, yml file for Travis CI">
+      <created>1569954987836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569954987837</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed travis yml">
+      <created>1569956237644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569956237645</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed travis yml (2)">
+      <created>1569956491015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569956491015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Working with Tests">
+      <created>1569956740695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569956740695</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Working with Tests">
+      <created>1569956962233</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569956962233</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Working with Tests">
+      <created>1569957000141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569957000141</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Small changes in test_crawler functions">
+      <created>1570091175760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570091175760</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Trying to make Travis CI work">
+      <created>1570212370038</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570212370038</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Trying to make Travis CI work [2]">
+      <created>1570212904483</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570212904483</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Changed paths to files and .travis.yml">
+      <created>1570217550971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570217550971</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Deleted unnecessary import">
+      <created>1570217721974</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570217721974</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Made little changes in requirements">
+      <created>1570283888529</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570283888529</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Little changes in the appearance of news_page_html">
+      <created>1570569436226</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570569436228</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Some more changes in the appearance of news_page_html, added css style">
+      <created>1570650248825</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1570650248831</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Some more changes in the appearance of news_page_html, added css style">
+      <created>1571269948078</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571269948078</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Some more changes in the appearance of news_page_html, added css style">
+      <created>1571270875146</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571270875146</updated>
+    </task>
+    <task id="LOCAL-00019" summary="server app">
+      <created>1571270907407</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571270907407</updated>
+    </task>
+    <task id="LOCAL-00020" summary="dots">
+      <created>1571272231264</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1571272231264</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First task is done, everything works" />
+    <MESSAGE value="Added html_test_page, test_crawler.py for unittests" />
+    <MESSAGE value="Added one test function, yml file for Travis CI" />
+    <MESSAGE value="Fixed travis yml" />
+    <MESSAGE value="Fixed travis yml (2)" />
+    <MESSAGE value="Working with Tests" />
+    <MESSAGE value="Small changes in test_crawler functions" />
+    <MESSAGE value="Trying to make Travis CI work" />
+    <MESSAGE value="Trying to make Travis CI work [2]" />
+    <MESSAGE value="Changed paths to files and .travis.yml" />
+    <MESSAGE value="Deleted unnecessary import" />
+    <MESSAGE value="Made little changes in requirements" />
+    <MESSAGE value="Little changes in the appearance of news_page_html" />
+    <MESSAGE value="Some more changes in the appearance of news_page_html, added css style" />
+    <MESSAGE value="server app" />
+    <MESSAGE value="top commit" />
+    <MESSAGE value="dots" />
+    <option name="LAST_COMMIT_MESSAGE" value="dots" />
+  </component>
+</project>
