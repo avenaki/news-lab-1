@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9de03165-d9d8-4e3f-82f6-b1ee0da5ba25" name="Default Changelist" comment="changed directories">
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    <list default="true" id="9de03165-d9d8-4e3f-82f6-b1ee0da5ba25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +86,19 @@
       <option name="project" value="LOCAL" />
       <updated>1571296491140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="try to fix heroku">
+      <created>1571297329826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571297329826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed directories" />
+    <MESSAGE value="try to fix heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to fix heroku" />
   </component>
 </project>
